@@ -1,0 +1,242 @@
+{
+ "name_first": "TANAY",
+ "name_last": "BISWAS",
+ "full_name": "Tanay Biswas",
+ "github": "Tanay8n",
+ "email": "tanay8@gmail.com",
+ "location": "Shyamnagar, West Bengal",
+ "country": "IN",
+ "edu_line": "B.Tech CSE (AI & ML)",
+ "college": "JIS College of Engineering",
+ "status": "OPEN TO COLLABS",
+ "roles": [
+  "Web Developer",
+  "AI Engineer"
+ ],
+ "pitch": [
+  "Like a Rubik's Cube, every complex problem has an",
+  "elegant solution. You just need the right moves."
+ ],
+ "capabilities": [
+  [
+   "Web development",
+   "Next.js, React and TypeScript apps, shipped live."
+  ],
+  [
+   "AI engineering",
+   "Building towards intelligent, data-driven systems."
+  ],
+  [
+   "Python & automation",
+   "Scripts and small tools that save real time."
+  ],
+  [
+   "Deploy & backends",
+   "Vercel hosting with Supabase and Firebase."
+  ]
+ ],
+ "interests": [
+  [
+   "01",
+   "CODING",
+   "Building things for the web,",
+   "one commit at a time.",
+   "code"
+  ],
+  [
+   "02",
+   "GAMING",
+   "Story campaigns first,",
+   "then one more match.",
+   "pad"
+  ],
+  [
+   "03",
+   "TRAVELLING",
+   "New places, new people,",
+   "fresh perspective.",
+   "map"
+  ]
+ ],
+ "socials": {
+  "linkedin": [
+   "LinkedIn",
+   "in/tanay-biswas-8n",
+   "https://www.linkedin.com/in/tanay-biswas-8n"
+  ],
+  "instagram": [
+   "Instagram",
+   "@_tanayiiiii",
+   "https://www.instagram.com/_tanayiiiii"
+  ],
+  "website": [
+   "Portfolio",
+   "tanaybiswas.me",
+   "https://tanaybiswas.me"
+  ],
+  "youtube": [
+   "YouTube",
+   "@thecodeparadoxx",
+   "https://www.youtube.com/@thecodeparadoxx"
+  ],
+  "gmail": [
+   "Email",
+   "tanay8@gmail.com",
+   "mailto:tanay8@gmail.com"
+  ]
+ },
+ "extra_links": [
+  [
+   "X",
+   "https://x.com/Tanay8n"
+  ],
+  [
+   "Link hub",
+   "https://tanaybiswas.tech"
+  ],
+  [
+   "GitHub",
+   "https://github.com/Tanay8n"
+  ]
+ ],
+ "snapshot": "27 OCT 2026",
+ "projects": [
+  [
+   "Quick Resume",
+   "https://quick-resume-gray.vercel.app/",
+   "https://github.com/Tanay8n/QuickResume",
+   "Free, no-login resume builder: 12 templates, live preview, PDF export. Your data stays in your browser.",
+   "HTML · CSS · Vanilla JS"
+  ],
+  [
+   "Linktree",
+   "https://tanaybiswas.tech",
+   "https://github.com/Tanay8n/Linktree",
+   "My personal link-in-bio hub: every profile and important link in one clean, modern page.",
+   "HTML · CSS · JavaScript"
+  ],
+  [
+   "Portfolio",
+   "https://tanaybiswas.me",
+   "https://github.com/Tanay8n/Portfolio",
+   "My developer portfolio, with an interactive Rubik's Cube you can scramble and solve, plus skills, projects and contact.",
+   "HTML · CSS · JavaScript"
+  ]
+ ],
+ "stack_groups": [
+  [
+   "WEB",
+   [
+    "html5",
+    "css",
+    "javascript",
+    "typescript",
+    "react",
+    "nextdotjs",
+    "nodedotjs",
+    "tailwindcss",
+    "supabase",
+    "firebase"
+   ]
+  ],
+  [
+   "AI / ML",
+   [
+    "python",
+    "numpy",
+    "pandas",
+    "scikitlearn",
+    "tensorflow",
+    "pytorch",
+    "jupyter"
+   ]
+  ],
+  [
+   "TOOLS & MORE",
+   [
+    "git",
+    "github",
+    "vercel",
+    "openjdk",
+    "figma",
+    "docker"
+   ]
+  ]
+ ],
+ "orbits": [
+  [
+   "python",
+   "javascript",
+   "typescript"
+  ],
+  [
+   "react",
+   "nextdotjs",
+   "nodedotjs",
+   "tailwindcss",
+   "tensorflow"
+  ],
+  [
+   "pytorch",
+   "numpy",
+   "firebase",
+   "supabase",
+   "git",
+   "github",
+   "openjdk"
+  ]
+ ],
+ "github_snapshot": {
+  "date": "27 OCT 2026",
+  "public_repos": 5,
+  "live_products": 2,
+  "joined": "AUG 2025",
+  "repos": [
+   [
+    "QuickResume",
+    "JavaScript",
+    "quick-resume-gray.vercel.app"
+   ],
+   [
+    "Linktree",
+    "CSS",
+    "tanaybiswas.tech"
+   ],
+   [
+    "Portfolio",
+    "CSS",
+    "tanaybiswas.me"
+   ],
+   [
+    "ishqyaraa",
+    "TypeScript",
+    "ishqyara.social"
+   ],
+   [
+    "complete-c-programming-guide",
+    "C",
+    ""
+   ]
+  ],
+  "lang_counts": [
+   [
+    "CSS",
+    2
+   ],
+   [
+    "JavaScript",
+    1
+   ],
+   [
+    "TypeScript",
+    1
+   ],
+   [
+    "C",
+    1
+   ]
+  ]
+ },
+ "notes": "All personal facts in one file. Edit, then run: python3 source/build.py. Portrait swap: replace source/portrait/id.png and right_pointing.png, run build.py, bump ?v= in README.",
+ "footer": "Every complex problem has an elegant solution. You just need the right moves."
+}
